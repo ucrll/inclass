@@ -1,0 +1,78 @@
+body{
+    margin: auto;
+}
+.header{
+    height: 80px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #101010;
+    color:#F4F4F4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text{
+    color:#F4F4F4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 0;
+}
+.dot{
+    color: green;
+    width: 2.25px;
+    height: 3px;
+}
+.container{
+    max-width: 1440px;
+    height: 3598;
+    opacity: 1;
+    top: 247px;
+    left: 353px;
+    background-color: #F4F4F4;
+    margin: auto;
+}
+.Intro{
+text-align: center;
+justify-content: center;
+align-items: center;
+padding-top: 100px;
+}
+.Khuvsgul{
+font-family: Montserrat;
+font-weight: 700;
+font-style: Bold;
+font-size: 72px;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: bottom;
+color: #303030;
+width: 555;
+height: 88;
+opacity: 1;
+}
+.trip{
+font-family: Montserrat;
+font-weight: 700;
+font-style: Bold;
+font-size: 24px;
+letter-spacing: 0%;
+vertical-align: bottom;
+text-transform: uppercase;
+width: 58;
+height: 29;
+opacity: 1;
+color: #ABABAB;
+}
+.images{
+    padding-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.MAP{
+    
+}
